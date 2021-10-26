@@ -1,1 +1,3 @@
-# Impulsivity_networks
+# Impulsivity networks
+
+![screen-gif](./gradients.gif)
